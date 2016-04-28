@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./brevisdelineati00zialgoog_0009.png"; bbox 0 0 2225 3959; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 372 103 2193 836">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 372 103 2193 836">
+     <span class='ocr_line' id='line_1_1' title="bbox 372 103 2193 836; baseline 0 3123"><span class='ocrx_word' id='word_1_1' title='bbox 372 103 2193 836; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 36 2085 1300 3938">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 36 2085 1300 3938">
+     <span class='ocr_line' id='line_1_2' title="bbox 36 2085 1300 3938; baseline 0 -708"><span class='ocrx_word' id='word_1_2' title='bbox 36 2085 1300 3938; x_wconf 95' lang='lat' dir='ltr'>   </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2075 3314 2193 3801">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2075 3314 2193 3801">
+     <span class='ocr_line' id='line_1_3' title="bbox 2075 3314 2193 3801; baseline 0 -351"><span class='ocrx_word' id='word_1_3' title='bbox 2075 3314 2193 3801; x_wconf 95' lang='lat' dir='ltr'>    </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 715 3278 2106 3605">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 629 3231 2106 3605">
+     <span class='ocr_line' id='line_1_4' title="bbox 715 3278 2021 3426; baseline -0.026 -31"><span class='ocrx_word' id='word_1_4' title='bbox 715 3290 1440 3426; x_wconf 59' lang='lat' dir='ltr'>IALOWSKI</span> <span class='ocrx_word' id='word_1_5' title='bbox 1490 3278 1954 3371; x_wconf 74' lang='lat' dir='ltr'>Ruth&#39;enus</span> <span class='ocrx_word' id='word_1_6' title='bbox 1990 3341 2021 3383; x_wconf 87' lang='lat'>,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 763 3386 2106 3605; baseline -0.03 -91.083"><span class='ocrx_word' id='word_1_7' title='bbox 763 3446 903 3482; x_wconf 56' lang='lat'>*2</span> <span class='ocrx_word' id='word_1_8' title='bbox 920 3403 1377 3605; x_wconf 73' lang='lat' dir='ltr'>Religioni</span> <span class='ocrx_word' id='word_1_9' title='bbox 1315 3373 2106 3600; x_wconf 44' lang='lat' dir='ltr'>addfflus‘ffiz</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
